@@ -42,6 +42,7 @@ There are many different types of applications built on Ethereum but here are a 
 
 * [Compound](https://compound.finance/): Lend and borrow ETH or other tokens.
 * [Uniswap](https://uniswap.exchange/swap): Easily trade your ETH for other tokens.
+* [RADAR RELAY](https://app.radarrelay.com): Trade ERC20 tokens directly with others, wallet-to-wallet.
 
 **Games**
 
